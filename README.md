@@ -1,4 +1,4 @@
-Toretto.pwn - por que pwn?
+Souza.pwn - por que pwn?
 Linguagem que sou especialista conheco igual minha mão
 
 Oi, Meu nome é ... não importa,
@@ -18,4 +18,4 @@ JS - Sou um bosta,
 NodeJS - Top,
 DiscordJS - Derivada do NodeJS essa eu tento.
 
-Contato so no Discord Toretto.pwn#5389
+Contato so no Discord jpcavalcante16
